@@ -1,3 +1,1 @@
-# Note-Taking-Using-Obsidian
-This is a respo to test if I'm able to backup to GitHub.
-I think this should work?????
+Welcome to my note taking space where I try to take note and backup to GitHub. 
