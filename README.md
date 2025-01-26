@@ -1,2 +1,3 @@
 # Note-Taking-Using-Obsidian
-This is a resppo to test if I'm able to backup to github.
+This is a respo to test if I'm able to backup to GitHub.
+I think this should work?????
