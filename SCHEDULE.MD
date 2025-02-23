@@ -20,7 +20,7 @@
 | **17:30–19:00**  | 🟡 **Discrete Math & Assignments** | 🟡 **Programming 2 Assignments**  | 🟡 **Self-Study (Discrete Math & Review)** | 🟡 **IoT Self-Study & Project** | 🟡 **Programming 2 & Algorithms** | 🟡 **Algorithms & Theoretical CS** | 🟡 **Weekly Review & Planning** |
 | **19:00–20:00**  | 🍽️ **Dinner & Free Time**     | 🍽️ **Dinner & Relaxation**       | 🍽️ **Dinner & Relaxation**       | 🍽️ **Dinner & Relaxation**       | 🍽️ **Dinner & Relaxation**       | 🍽️ **Dinner & Relaxation**      | 🍽️ **Dinner & Relaxation**      |
 | **20:00–22:00**  | 🔴 **Calculus Resit Preparation** | 🔴 **Calculus Resit Preparation** | 🔴 **Calculus Resit Preparation** | 🔴 **Calculus Resit Preparation** | 🔴 **Calculus Resit Preparation** | 🔴 **Calculus Resit Preparation** | 🔴 **Calculus Resit Preparation** |
-| **21:00–22:00**  | 🟢 **Free Time / Wind Down**  | 🟢 **Free Time / Wind Down**     | 🟢 **Free Time / Wind Down**     | 🟢 **Free Time / Wind Down**     | 🟢 **Free Time / Wind Down**     | 🟢 **Free Time / Light Reading** | 🟢 **Free Time / Light Reading** |
+| **22:00–22:30**  | 🟢 **Free Time / Wind Down**  | 🟢 **Free Time / Wind Down**     | 🟢 **Free Time / Wind Down**     | 🟢 **Free Time / Wind Down**     | 🟢 **Free Time / Wind Down**     | 🟢 **Free Time / Light Reading** | 🟢 **Free Time / Light Reading** |
 
 ## ✅ Key Takeaways
 - 🔥 **Focused Calculus Resit Preparation (~25+ Hours per Week)**
